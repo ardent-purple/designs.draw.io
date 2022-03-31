@@ -1,28 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T03:18:13.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="r1eKr9X5WhFMZ__-dLOv" version="17.2.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:41:00.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="0DmYTzANau4co6UcKF3K" version="17.2.1" type="github" pages="2">
   <diagram name="Text-outline" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
-    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TDYqiZ3C1yY4F9kCs-2D-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;What does portfolio consist of?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Name &amp;amp; Lastname&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* Occupation&lt;br&gt;* Couple of sentences about yourself&lt;br&gt;* Most valuable skills (5-6 with persents)&lt;br&gt;* Contact links&lt;br&gt;* Your folio with works&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="105" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="TDYqiZ3C1yY4F9kCs-2D-19" value="Folio entities (screens)&lt;br&gt;* Main page with all the starting info&lt;br&gt;&amp;nbsp; * Name&lt;br&gt;&amp;nbsp; * Frontend-developer&lt;br&gt;&amp;nbsp; * Icons: Github, Linkedin, Telegram, email&lt;br&gt;&amp;nbsp; * I&#39;m a frontend developer interested in creating beautiful, &lt;br&gt;robust and fast web apps. &lt;br&gt;I enjoy experimenting, learning and bringing my ideas to life using bleeding edge web stack.&lt;br&gt;&amp;nbsp; * Skills: UI/UX, HTML/CSS, Javascript, Tailwind, Preact, grammY&lt;br&gt;* Folio list:&lt;br&gt;&amp;nbsp; * Categories&lt;br&gt;&amp;nbsp; * Work previews&lt;br&gt;* One work page: &lt;br&gt;&amp;nbsp; * name, &lt;br&gt;&amp;nbsp; * short info, &lt;br&gt;&amp;nbsp; * Tech stack&lt;br&gt;&amp;nbsp; *&amp;nbsp;link if working, &lt;br&gt;&amp;nbsp; *&amp;nbsp;static image preview, tap to load gif" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="10" width="500" height="260" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="iH_aB0KcLOL-Wf0d4RAA" name="Main-folio">
-    <mxGraphModel dx="1016" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="emm-mItc15P9O2YFvPMd-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="77" y="42" width="200" height="390" as="geometry" />
+        <mxCell id="QVSCdFmodsCXH8chcpbr-49" value="Swipe up/click on check" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="emm-mItc15P9O2YFvPMd-1" target="QVSCdFmodsCXH8chcpbr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="emm-mItc15P9O2YFvPMd-1" value="Main folio page 1st option mobile" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="80" width="200" height="390" as="geometry" />
         </mxCell>
         <mxCell id="emm-mItc15P9O2YFvPMd-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1250" width="1110" height="760" as="geometry" />
+          <mxGeometry x="2000" y="1250" width="1110" height="760" as="geometry" />
         </mxCell>
         <mxCell id="emm-mItc15P9O2YFvPMd-5" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="emm-mItc15P9O2YFvPMd-4">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -31,22 +28,22 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="emm-mItc15P9O2YFvPMd-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;" vertex="1" parent="1">
-          <mxGeometry x="2070" y="40" width="472" height="686" as="geometry" />
+          <mxGeometry x="83" y="1250" width="472" height="686" as="geometry" />
         </mxCell>
         <mxCell id="NcX_P8p29gd-b2ItVgPm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
-          <mxGeometry x="190" y="92" width="73" height="108" as="geometry" />
+          <mxGeometry x="2113" y="130" width="73" height="108" as="geometry" />
         </mxCell>
         <mxCell id="NcX_P8p29gd-b2ItVgPm-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Reysh Max&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="100" width="100" height="20" as="geometry" />
+          <mxGeometry x="2013" y="138" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NcX_P8p29gd-b2ItVgPm-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Frontend developer&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="100" height="20" as="geometry" />
+          <mxGeometry x="2013" y="158" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wu3p1NTaYvDcUk5dHZhw-1" value="&lt;font style=&quot;font-size: 6px&quot;&gt;I&#39;m a frontend developer fond of&amp;nbsp;&lt;br&gt;creating beautiful and fast apps. &lt;br&gt;I enjoy experimenting, learning and &lt;br&gt;bringing my ideas to life &lt;br&gt;using bleeding edge web stack.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;shadow=0;imageWidth=24;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="110" height="40" as="geometry" />
+          <mxGeometry x="2013" y="198" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HA7bvgRmfnM51bMVYnGB-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="92" y="141" width="80" height="15" as="geometry" />
+          <mxGeometry x="2015" y="179" width="80" height="15" as="geometry" />
         </mxCell>
         <mxCell id="VMTgORACP_mGZE_8R9Jl-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" vertex="1" parent="HA7bvgRmfnM51bMVYnGB-1">
           <mxGeometry width="15" height="15" as="geometry" />
@@ -61,7 +58,7 @@
           <mxGeometry x="65" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="QVSCdFmodsCXH8chcpbr-39" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="83" y="220" width="182" height="134" as="geometry" />
+          <mxGeometry x="2006" y="258" width="182" height="134" as="geometry" />
         </mxCell>
         <mxCell id="-UbaRGzlqwvuuvRC7JwR-4" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
           <mxGeometry width="182" height="17" as="geometry" />
@@ -136,13 +133,134 @@
           <mxGeometry x="5" y="2" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QVSCdFmodsCXH8chcpbr-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;My skills&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="148" y="203" width="60" height="20" as="geometry" />
+          <mxGeometry x="2071" y="241" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVSCdFmodsCXH8chcpbr-41" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Check out my work&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="112" y="363" width="130" height="20" as="geometry" />
+          <mxGeometry x="2035" y="401" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QVSCdFmodsCXH8chcpbr-43" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;fontSize=12;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="160" y="383" width="36" height="4" as="geometry" />
+          <mxGeometry x="2083" y="421" width="36" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-48" value="Works list page 1st option mobile" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="2373" y="80" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-50" target="QVSCdFmodsCXH8chcpbr-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-50" target="QVSCdFmodsCXH8chcpbr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-50" value="Main foligo page" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="83" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-52" target="QVSCdFmodsCXH8chcpbr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-52" target="QVSCdFmodsCXH8chcpbr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-52" value="Works list" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="330" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-54" value="Selecting category" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-52" target="QVSCdFmodsCXH8chcpbr-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-55" target="QVSCdFmodsCXH8chcpbr-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="QVSCdFmodsCXH8chcpbr-55" target="QVSCdFmodsCXH8chcpbr-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-55" value="Particular work page" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="330" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-57" value="EXTERNAL: link to work" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-59" value="EXTERNAL: any contact" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="83" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-1" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;What does portfolio consist of?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Name &amp;amp; Lastname&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* Occupation&lt;br&gt;* Couple of sentences about yourself&lt;br&gt;* Most valuable skills (5-6 with persents)&lt;br&gt;* Contact links&lt;br&gt;* Your folio with works&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-2" value="Folio entities (screens)&lt;br&gt;* Main page with all the starting info&lt;br&gt;&amp;nbsp; * Name&lt;br&gt;&amp;nbsp; * Frontend-developer&lt;br&gt;&amp;nbsp; * Icons: Github, Linkedin, Telegram, email&lt;br&gt;&amp;nbsp; * I&#39;m a frontend developer interested in creating beautiful, &lt;br&gt;robust and fast web apps. &lt;br&gt;I enjoy experimenting, learning and bringing my ideas to life using bleeding edge web stack.&lt;br&gt;&amp;nbsp; * Skills: UI/UX, HTML/CSS, Javascript, Tailwind, Preact, grammY&lt;br&gt;* Folio list:&lt;br&gt;&amp;nbsp; * Categories: websites, web apps, games, telegram bots&lt;br&gt;&amp;nbsp; * Work previews: cards: image + text&lt;br&gt;* One work page: &lt;br&gt;&amp;nbsp; * name, &lt;br&gt;&amp;nbsp; * short info, &lt;br&gt;&amp;nbsp; * Tech stack&lt;br&gt;&amp;nbsp; *&amp;nbsp;link if working, &lt;br&gt;&amp;nbsp; *&amp;nbsp;static image preview, tap to load gif" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="500" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-3" value="Websites" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=7;labelBorderColor=none;perimeterSpacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="130" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-7" value="Web apps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;labelBorderColor=none;perimeterSpacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2416" y="123" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-8" value="Games" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=7;labelBorderColor=none;perimeterSpacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2472" y="130" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-9" value="Telegram bots" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=7;labelBorderColor=none;perimeterSpacing=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2502" y="130" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2388" y="141" width="171" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;" edge="1" parent="LWtnFlVYHJPsl6HuAKcl-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="LWtnFlVYHJPsl6HuAKcl-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="64.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=11;dashed=1;" edge="1" parent="1" source="LWtnFlVYHJPsl6HuAKcl-14" target="LWtnFlVYHJPsl6HuAKcl-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2625" y="127" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-14" value="Categories are changing each in 10-15 seconds&lt;br&gt;Chosen category is bigger in font and size&lt;br&gt;User chooses: countdown stops" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="2500" y="30" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-16" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;fontSize=11;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2386" y="127" width="174" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2386" y="158" width="84" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-18" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=default;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-21">
+          <mxGeometry x="4" y="3.5" width="80" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-19" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBorderColor=none;fontSize=11;strokeColor=default;fillColor=none;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-21">
+          <mxGeometry x="2" width="82" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-20" value="Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-21">
+          <mxGeometry y="83" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2474" y="158" width="84" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-23" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=default;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-22">
+          <mxGeometry x="4" y="3.5" width="80" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-24" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBorderColor=none;fontSize=11;strokeColor=default;fillColor=none;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-22">
+          <mxGeometry x="2" width="82" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-25" value="Project" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-22">
+          <mxGeometry y="83" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2385" y="282" width="174" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-27" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;fillColor=default;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-26">
+          <mxGeometry x="4" y="3.5" width="168" height="78.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-28" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;labelBorderColor=none;fontSize=11;strokeColor=default;fillColor=none;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-26">
+          <mxGeometry x="2" width="171" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LWtnFlVYHJPsl6HuAKcl-29" value="Project big" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="LWtnFlVYHJPsl6HuAKcl-26">
+          <mxGeometry x="7" y="85" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
