@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T02:22:07.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ft37AoRoc46LT70adJT0" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-31T03:18:13.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="r1eKr9X5WhFMZ__-dLOv" version="17.2.1" type="github" pages="2">
   <diagram name="Text-outline" id="2cc2dc42-3aac-f2a9-1cec-7a8b7cbee084">
     <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -7,8 +7,142 @@
         <mxCell id="TDYqiZ3C1yY4F9kCs-2D-18" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;What does portfolio consist of?&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;* Name &amp;amp; Lastname&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;* Occupation&lt;br&gt;* Couple of sentences about yourself&lt;br&gt;* Most valuable skills (5-6 with persents)&lt;br&gt;* Contact links&lt;br&gt;* Your folio with works&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="105" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TDYqiZ3C1yY4F9kCs-2D-19" value="Folio entities (screens)&lt;br&gt;* Main page with all the starting info&lt;br&gt;&amp;nbsp; * Name&lt;br&gt;&amp;nbsp; * Frontend-developer&lt;br&gt;&amp;nbsp; * I&#39;m a frontend developer interested in creating beautiful, &lt;br&gt;robust and fast web apps. &lt;br&gt;I enjoy experimenting, learning and bringing my ideas to life using bleeding edge web stack.&lt;br&gt;&amp;nbsp; * Skills: UI/UX, HTML/CSS, Javascript, Tailwind, Preact, Webpack&lt;br&gt;* Folio list:&lt;br&gt;&amp;nbsp; * Categories&lt;br&gt;&amp;nbsp; * Work previews&lt;br&gt;* One work page: &lt;br&gt;&amp;nbsp; * name, &lt;br&gt;&amp;nbsp; * short info, &lt;br&gt;&amp;nbsp; * Tech stack&lt;br&gt;&amp;nbsp; *&amp;nbsp;link if working, &lt;br&gt;&amp;nbsp; *&amp;nbsp;static image preview, tap to load gif" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="20" width="500" height="240" as="geometry" />
+        <mxCell id="TDYqiZ3C1yY4F9kCs-2D-19" value="Folio entities (screens)&lt;br&gt;* Main page with all the starting info&lt;br&gt;&amp;nbsp; * Name&lt;br&gt;&amp;nbsp; * Frontend-developer&lt;br&gt;&amp;nbsp; * Icons: Github, Linkedin, Telegram, email&lt;br&gt;&amp;nbsp; * I&#39;m a frontend developer interested in creating beautiful, &lt;br&gt;robust and fast web apps. &lt;br&gt;I enjoy experimenting, learning and bringing my ideas to life using bleeding edge web stack.&lt;br&gt;&amp;nbsp; * Skills: UI/UX, HTML/CSS, Javascript, Tailwind, Preact, grammY&lt;br&gt;* Folio list:&lt;br&gt;&amp;nbsp; * Categories&lt;br&gt;&amp;nbsp; * Work previews&lt;br&gt;* One work page: &lt;br&gt;&amp;nbsp; * name, &lt;br&gt;&amp;nbsp; * short info, &lt;br&gt;&amp;nbsp; * Tech stack&lt;br&gt;&amp;nbsp; *&amp;nbsp;link if working, &lt;br&gt;&amp;nbsp; *&amp;nbsp;static image preview, tap to load gif" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="10" width="500" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iH_aB0KcLOL-Wf0d4RAA" name="Main-folio">
+    <mxGraphModel dx="1016" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="emm-mItc15P9O2YFvPMd-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="42" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="emm-mItc15P9O2YFvPMd-4" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1250" width="1110" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="emm-mItc15P9O2YFvPMd-5" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="emm-mItc15P9O2YFvPMd-4">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="emm-mItc15P9O2YFvPMd-6" value="https://www.draw.io" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="emm-mItc15P9O2YFvPMd-4">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="emm-mItc15P9O2YFvPMd-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="40" width="472" height="686" as="geometry" />
+        </mxCell>
+        <mxCell id="NcX_P8p29gd-b2ItVgPm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.simpleIcon;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="190" y="92" width="73" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="NcX_P8p29gd-b2ItVgPm-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Reysh Max&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NcX_P8p29gd-b2ItVgPm-6" value="&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Frontend developer&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wu3p1NTaYvDcUk5dHZhw-1" value="&lt;font style=&quot;font-size: 6px&quot;&gt;I&#39;m a frontend developer fond of&amp;nbsp;&lt;br&gt;creating beautiful and fast apps. &lt;br&gt;I enjoy experimenting, learning and &lt;br&gt;bringing my ideas to life &lt;br&gt;using bleeding edge web stack.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=6;shadow=0;imageWidth=24;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HA7bvgRmfnM51bMVYnGB-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="92" y="141" width="80" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VMTgORACP_mGZE_8R9Jl-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" vertex="1" parent="HA7bvgRmfnM51bMVYnGB-1">
+          <mxGeometry width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VMTgORACP_mGZE_8R9Jl-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" vertex="1" parent="HA7bvgRmfnM51bMVYnGB-1">
+          <mxGeometry x="21" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VMTgORACP_mGZE_8R9Jl-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" vertex="1" parent="HA7bvgRmfnM51bMVYnGB-1">
+          <mxGeometry x="42.5" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="VMTgORACP_mGZE_8R9Jl-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=6;" vertex="1" parent="HA7bvgRmfnM51bMVYnGB-1">
+          <mxGeometry x="65" width="15" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="83" y="220" width="182" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="-UbaRGzlqwvuuvRC7JwR-4" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="-UbaRGzlqwvuuvRC7JwR-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="-UbaRGzlqwvuuvRC7JwR-4">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="-UbaRGzlqwvuuvRC7JwR-2" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="-UbaRGzlqwvuuvRC7JwR-4">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="-UbaRGzlqwvuuvRC7JwR-3" value="UI/UX design" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="-UbaRGzlqwvuuvRC7JwR-4">
+          <mxGeometry x="5" y="2" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-2" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry y="24" width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-3" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-2">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-4" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-2">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-5" value="HTML/CSS" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-2">
+          <mxGeometry x="5" y="2" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-14" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry y="47" width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-15" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-14">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-16" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-14">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-17" value="Javascript" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-14">
+          <mxGeometry x="5" y="2" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-27" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry y="70" width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-28" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-27">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-29" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-27">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-30" value="Tailwind" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-27">
+          <mxGeometry x="5" y="2" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-31" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry y="94" width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-32" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-31">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-33" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-31">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-34" value="Preact" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-31">
+          <mxGeometry x="5" y="2" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-35" value="" style="group" vertex="1" connectable="0" parent="QVSCdFmodsCXH8chcpbr-39">
+          <mxGeometry y="117" width="182" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-36" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-35">
+          <mxGeometry x="8" y="14" width="174" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-37" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontSize=6;arcSize=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-35">
+          <mxGeometry x="8" y="14" width="120" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-38" value="GrammY" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;" vertex="1" parent="QVSCdFmodsCXH8chcpbr-35">
+          <mxGeometry x="5" y="2" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-40" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;My skills&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="148" y="203" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-41" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Check out my work&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="112" y="363" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QVSCdFmodsCXH8chcpbr-43" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;fontSize=12;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="160" y="383" width="36" height="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
